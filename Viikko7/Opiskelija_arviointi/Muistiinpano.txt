@@ -1,0 +1,4 @@
+Routes/ tiedostot valmiina
+models/ tiedostoista arviointi_model kesken
+
+nodemon start
